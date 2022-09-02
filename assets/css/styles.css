@@ -1,0 +1,14 @@
+*{
+    width: 80%;
+    margin:auto;
+    padding: 2%;
+    
+}
+
+.titulo {
+    color: rgb(133, 6, 21);
+}
+
+.fondo {
+    background-color:rgb(133, 6, 21);
+}
